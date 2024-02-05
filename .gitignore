@@ -1,0 +1,99 @@
+# Android-specific files
+.gradle/
+/local.properties
+/.idea/workspace.xml
+/.idea/tasks.xml
+/.idea/gradle.xml
+/.idea/assetWizardSettings.xml
+/.idea/dictionaries
+/.idea/libraries
+/.idea/caches
+/.idea/modules.xml
+/.idea/misc.xml
+/.idea/vcs.xml
+/.idea/gradle.settings.xml
+/.idea/navEditor.xml
+
+# Android Studio files
+*.iml
+.idea/
+
+# Gradle files
+.gradle/
+build/
+
+# Local configuration file (if you use ProGuard)
+proguard-rules.pro
+
+# Generated files
+app/build/
+captures/
+output/
+
+# Signing Config files
+signingConfigs/
+
+# External native build folder generated in Android Studio 2.2 and later
+cxx/
+
+# Android Studio Navigation editor metadata
+.navigation/
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# Android Image Thumbnails
+*.android/
+
+# Folder config file
+Desktop.ini
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Windows shortcuts
+*.lnk
+
+# JetBrains IDE generated files
+.idea/
+*.iml
+
+# User-specific files
+*.suo
+*.user
+*.sln.docstates
+
+# Mono Auto Generated Files
+mono_crash.*
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# VS Code directories
+.vscode/
+
+# Mac OS specific files
+.DS_Store
+
+# Android Profiler
+*.hprof
+
+# Flipper debugger
+.flipper/
